@@ -1,0 +1,57 @@
+body {
+    background-color: black;
+    color: lightgrey;
+    font-family: 'consolas';
+    text-align: center;
+}
+
+
+label {
+    position:absolute;
+    left: 35%;
+    margin-top: 15px;
+}
+
+input {
+    background-color: black;
+    color: lightgrey;
+    font-family: 'consolas';
+    position:absolute;
+    left: 60%;
+    margin-top: 15px;
+}
+
+textarea {
+    background-color: black;
+    color: lightgrey;
+    font-family: 'consolas';
+}
+
+select {
+    position:absolute;
+    left: 60%;
+    margin-top: 15px;
+}
+
+button {
+    background-color: black;
+    color: lightgrey;
+    font-family: 'consolas';
+    position: absolute;
+    text-align: center;
+    left: 50%;
+    margin-top: 50px;
+    border: solid 1px transparent;
+    padding: 5px;
+}
+
+nav {
+    position: absolute;
+    bottom: 100px;
+    left: 40%;
+}
+
+a {
+    color: lightskyblue;
+}
+
